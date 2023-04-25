@@ -1,4 +1,5 @@
 const icons = document.querySelectorAll(".section-1-icons i")
+let i = 1
 
 setInterval(() =>{
 
