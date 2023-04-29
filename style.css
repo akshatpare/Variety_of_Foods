@@ -23,7 +23,7 @@ html {
   letter-spacing: 0.5rem;
   text-shadow: 0.3rem 0.3rem 0.3rem #000;
 }
-/* End of Common Styles */
+
 
 /* Navbar */
 .navbar {
@@ -128,7 +128,7 @@ html {
   /* transition: all 0.4s; */
 }
 
-/* End of Navbar */
+
 
 /* Section 1 */
 .section-1 {
@@ -154,7 +154,7 @@ html {
   transform: translate(-50%, -50%) scale(1);
   transition: transform 0.3s 0.3s;
 }
-/* End of Section 1 */
+
 
 /* Section 2 */
 .section-2 {
@@ -250,7 +250,7 @@ html {
   cursor: pointer;
   box-shadow: -0.2rem -0.2rem 0.2rem #000;
 }
-/* End of Section 2 */
+
 
 /* Section 3 */
 .section-3 {
@@ -359,7 +359,7 @@ html {
   visibility: visible;
   transition: opacity 1s 1s;
 }
-/* End of Section 3 */
+
 
 /* Section 4 */
 
@@ -434,7 +434,6 @@ html {
   width: 100%;
   text-align: center;
 }
-/* End of Section 4 */
 
 /* Responsive */
 @media (max-width: 1400px) {
@@ -534,4 +533,4 @@ html {
     margin: 0 0.7rem;
   }
 }
-/* End of Responsive */
+
